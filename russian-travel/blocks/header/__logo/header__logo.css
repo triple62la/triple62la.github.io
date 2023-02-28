@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__logo{
     width: 176px;
     height: 52px;
@@ -8,4 +9,16 @@
         width: 142px;
         height: 42px;
     }
+=======
+.header__logo{
+    width: 176px;
+    height: 52px;
+    background-color: #2A2C2F;
+}
+@media screen and (max-width:767px) {
+    .header__logo{
+        width: 142px;
+        height: 42px;
+    }
+>>>>>>> c490dc0c1b4d1c7936cea8d78720d922ed51bc0e
 }

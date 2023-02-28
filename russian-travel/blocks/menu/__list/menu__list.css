@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .menu__list{
     margin: 0;
     padding: 0;
@@ -11,4 +12,19 @@
         row-gap: 32px;
     }
 
+=======
+.menu__list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    column-gap: 18px;
+}
+@media screen and (max-width: 767px){
+    .menu__list{
+        flex-direction: column;
+        row-gap: 32px;
+    }
+
+>>>>>>> c490dc0c1b4d1c7936cea8d78720d922ed51bc0e
 }

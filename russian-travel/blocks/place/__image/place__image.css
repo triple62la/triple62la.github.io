@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__image{
     object-fit: cover;
     object-position: center;
@@ -15,4 +16,23 @@
         padding:0;
     }
 
+=======
+.place__image{
+    object-fit: cover;
+    object-position: center;
+    max-width: 460px;
+    width: 100%;
+}
+@media screen and (max-width: 767px){
+    .place__image{
+        padding: 0 16px;
+    }
+
+}
+@media screen and (max-width: 509px){
+    .place__image{
+        padding:0;
+    }
+
+>>>>>>> c490dc0c1b4d1c7936cea8d78720d922ed51bc0e
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__website{
     display: flex;
     flex-direction: column;
@@ -10,4 +11,18 @@
         padding: 0 16px;
 
     }
+=======
+.place__website{
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    max-width: 484px;
+    align-self: end;
+}
+@media screen and (max-width: 767px) {
+    .place__website {
+        padding: 0 16px;
+
+    }
+>>>>>>> c490dc0c1b4d1c7936cea8d78720d922ed51bc0e
 }

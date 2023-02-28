@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__link{
     margin: 0;
     color: white;
@@ -8,4 +9,16 @@
 }
 .place__link:hover{
     opacity: 0.8;
+=======
+.place__link{
+    margin: 0;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    font-style: normal;
+}
+.place__link:hover{
+    opacity: 0.8;
+>>>>>>> c490dc0c1b4d1c7936cea8d78720d922ed51bc0e
 }

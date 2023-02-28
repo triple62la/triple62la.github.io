@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .menu{
     display: flex;
     justify-content: space-between;
@@ -8,4 +9,16 @@
         justify-content: left;
         row-gap: 48px;
     }
+=======
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+@media screen and (max-width: 767px){
+    .menu{
+        flex-direction: column;
+        justify-content: left;
+        row-gap: 48px;
+    }
+>>>>>>> c490dc0c1b4d1c7936cea8d78720d922ed51bc0e
 }
