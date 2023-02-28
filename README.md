@@ -1,3 +1,4 @@
 # Projects list:
--https://triple62la.github.io/russian-travel/
--https://triple62la.github.io/how-to-learn-plus/
+<ul>
+<li>-https://triple62la.github.io/russian-travel/</li>
+<li>-https://triple62la.github.io/how-to-learn-plus/</li>
